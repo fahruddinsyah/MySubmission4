@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySubmission4</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara Tv</string>
+    <string name="title_search">Cari</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_unfavorite">Hapus Favorit</string>
+    <string name="titlemovie">Nama Movie</string>
+    <string name="desc_movie">Deskripsi Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

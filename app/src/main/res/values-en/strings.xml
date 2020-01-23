@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmission4</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TvShow</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_unfavorite">UNFAVORITE</string>
+    <string name="titlemovie">Title Movie</string>
+    <string name="desc_movie">Description Movie</string>
+
+</resources>
